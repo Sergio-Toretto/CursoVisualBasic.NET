@@ -1,0 +1,77 @@
+TEMA 1 - Variables y Tipos de datos.
+
+https://www.youtube.com/watch?v=E2pg5sl6GHk&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 2 - Operadores Aritmeticos.
+
+https://www.youtube.com/watch?v=h3oMAdrkezk&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 3 - Arrays en consola de Windows
+
+https://www.youtube.com/watch?v=b4ss48gVods&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=4&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 4 - Arrays Multidimensionales en consola de Windows
+
+https://www.youtube.com/watch?v=w4pWGI4I76o&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=5&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 5 - Introduccion y conversion de datos en consola de Windows
+
+https://www.youtube.com/watch?v=_Z6DHEiMpos&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=6&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 6 - CONDICIONALES PARTE - ESTRUCTURA IF EN CONSOLA
+
+https://www.youtube.com/watch?v=RyfZQTS6ZY4&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=7&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 7 - CONDICIONALES PARTE 2 - ESTRUCTURA SELECT/CASE EN CONSOLA
+
+https://www.youtube.com/watch?v=ZCFwHJbXrsI&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=8&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 8 - CONDICIONALES PARTE 3 - CONDICIONALES LOGICOS EN CONSOLA
+
+https://www.youtube.com/watch?v=fUQq-fJOIAM&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=9&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 9 - BUCLE FOR EN CONSOLA
+
+https://www.youtube.com/watch?v=BJXATrgYppg&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=10&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 10 - COMPLETANDO LOGICA EN CONSOLA
+
+https://www.youtube.com/watch?v=BEFJcz25Xkk&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=11&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 11 - BUCLE DO...LOOP EN CONSOLA
+
+https://www.youtube.com/watch?v=9vvzOqdu5N8&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=12&ab_channel=DevideaCursos
+
+TEMA 12 - ALCANCE DE LAS VARIABLES EN CONSOLA
+
+https://www.youtube.com/watch?v=qk1c4fnD1Rc&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=13&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 13 - PROCEDIMIENTOS EN CONSOLA
+
+https://www.youtube.com/watch?v=LfQRXJRTfZQ&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=14&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 14 - FUNCIONES EN CONSOLA
+
+https://www.youtube.com/watch?v=HgcijwxJDc8&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=15&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 15 - PASO DE PARAMETROS EN CONSOLA - PARTE 1
+
+https://www.youtube.com/watch?v=OqyTWga3em0&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=16&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 16 - PASO DE PARAMETROS EN CONSOLA - PARTE 2
+
+https://www.youtube.com/watch?v=21SFiPmVGyc&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=17&ab_channel=DevideaCursosDevideaCursos
+
+TEMA 17 - SOBRECARGA DE METODOS EN CONSOLA
+
+https://www.youtube.com/watch?v=dxkmG1WVHOs&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=18&ab_channel=DevideaCursos
+
+TEMA 18 - EXCEPCIONES EN CONSOLA
+
+https://www.youtube.com/watch?v=5IDsseDyDYc&list=PLvMLybJwXhLEffqIAGvQgVzJDMafqkk9_&index=19&ab_channel=DevideaCursos
+
+
+
+
+
+
