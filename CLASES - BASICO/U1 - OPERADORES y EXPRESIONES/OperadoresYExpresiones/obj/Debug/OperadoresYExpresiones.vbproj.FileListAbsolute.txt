@@ -1,0 +1,12 @@
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\bin\Debug\OperadoresYExpresiones.exe.config
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\bin\Debug\OperadoresYExpresiones.exe
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\bin\Debug\OperadoresYExpresiones.pdb
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\bin\Debug\OperadoresYExpresiones.xml
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.vbproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.Resources.resources
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.vbproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.vbproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.exe
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.xml
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - OPERADORES y EXPRESIONES\OperadoresYExpresiones\obj\Debug\OperadoresYExpresiones.pdb

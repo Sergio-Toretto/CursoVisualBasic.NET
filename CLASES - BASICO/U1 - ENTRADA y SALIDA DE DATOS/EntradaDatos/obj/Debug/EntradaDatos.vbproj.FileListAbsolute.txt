@@ -1,0 +1,12 @@
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\bin\Debug\EntradaDatos.exe.config
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\bin\Debug\EntradaDatos.exe
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\bin\Debug\EntradaDatos.pdb
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\bin\Debug\EntradaDatos.xml
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.vbproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.Resources.resources
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.vbproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.exe
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.xml
+C:\Users\Sergio\Desktop\INFORMATICA\PROGRAMACION\ALTO NIVEL\.NET\BASICO\CLASES - BASICO\U1 - ENTRADA y SALIDA DE DATOS\EntradaDatos\obj\Debug\EntradaDatos.pdb
